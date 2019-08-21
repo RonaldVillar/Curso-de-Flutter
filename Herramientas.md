@@ -27,7 +27,7 @@
 * [Terminal](https://marketplace.visualstudio.com/items?itemName=formulahendry.terminal)
 
 
-# Tema que estoy usando:
+# Tema que Uso actualmente:
 * [Monokai Night](https://marketplace.visualstudio.com/items?itemName=fabiospampinato.vscode-monokai-night)
 
 # Configuración del Bracket Pair Colorizer 2
